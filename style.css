@@ -16,3 +16,12 @@
 	font-size: 50;
 	font-family: serif;
 }
+
+.footer {
+	padding: 30px 100px;
+	background: black;
+	color:#fff;
+	text-align: center;
+	font-size: 32;
+	font-family: serif;
+}
