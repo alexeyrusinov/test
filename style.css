@@ -1,8 +1,8 @@
-.header {
-	padding: 50px 100px;
-	background: darkgrey;
-	color: red;
+.main {
+	padding: 100px;
+	background:green;
+	color:#fff;
 	text-align: center;
-	font-size: 25;
+	font-size: 50;
 	font-family: serif;
 }
