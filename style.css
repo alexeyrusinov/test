@@ -1,8 +1,18 @@
 .header {
 	padding: 50px 100px;
-	background: darkgrey;
+	background: grey;
 	color: red;
 	text-align: center;
-	font-size: 25;
+	font-size: 20;
+	font-family: serif;
+
+}
+
+.main {
+	padding: 100px;
+	background:green;
+	color:#fff;
+	text-align: center;
+	font-size: 50;
 	font-family: serif;
 }
